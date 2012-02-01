@@ -1,3 +1,38 @@
 body {
     background: #eef;
 }
+
+.profilepic {
+	float: left;
+}
+
+.tweet {
+	clear:both;
+}
+
+.stripe {
+	background: #fff;
+}
+
+.profilepic, .tweet {
+	height: 48px;
+}
+
+.profilepic {
+	margin-right: 10px;
+	width: 48px;
+}
+
+header {
+	margin-bottom: 30px;
+}
+
+h1 {
+	display: inline;
+}
+
+.searchbox {
+	display: inline;
+	margin-top: 20px;
+	margin-left: 100px;
+}
