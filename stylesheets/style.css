@@ -2,6 +2,10 @@ body {
     background: #eef;
 }
 
+#content {
+	margin: 20px;
+}
+
 .profilepic {
 	float: left;
 }
@@ -10,8 +14,11 @@ body {
 	clear:both;
 }
 
-.stripe {
+.stripe1 {
 	background: #fff;
+}
+.stripe2 {
+	background: #eef;
 }
 
 .profilepic, .tweet {
@@ -35,4 +42,11 @@ h1 {
 	display: inline;
 	margin-top: 20px;
 	margin-left: 100px;
+}
+
+#tweets {
+	background: #ccf;
+	padding: 23px;
+	border-radius: 15px;
+	height: 480px;
 }
